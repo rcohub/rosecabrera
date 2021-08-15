@@ -11,10 +11,16 @@ Created for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program
 
 Welcome to this interactive apartment, decorated with the "transitional minimanist" in mind. Click on the globe to make it spin or stop. Click anywhere in the apartment to watch segments of some breaking news clip from the television. Or watch as the pet fish, Nemo, swims curiously in his tank. 
 
+## Screenshots
+![The kitchen with the required globe](./images/Screenshot2.jpg) \
+![The minimalist living room](./images/Screenshot3.jpg) \
+![The bookshelf and its many assets](./images/Screenshot4.jpg) \
+![The pizza art really pops in the dining area](./images/Screenshot5.jpg)
+
 ## Reflection
 There were several aspects about this project that I found challenging, but ultimately worth it all. Perhaps the most challenging part was figuring out a nice and simple apartment design with free assets. Due to those limitations, I custom built several GameObject prefabs, such as the kitchen lamps hanging on both sides of the range (above the oven) and the fish tank. One of my favorite tasks was figuring out how to code some of the animation or make it work using the animation controller. The scene has at least 3 different animations with 3 different styles. For example, the fish is a "position" animation. The globe is a "rotation" animation that uses boolean triggers to turn on and off. And the TV images rotate every time the player teleports via the TextureSwap.cs script.
 
-### 3rd Party Assets
+## 3rd Party Assets
 [Low Poly Fish and Tank Accessories by Acorn Bringer](https://assetstore.unity.com/publishers/2136) \
 [Bar Char 2 by HarpetStudio](https://www.artstation.com/harpet) \
 [Low Poly Light Bulb by Jason Toff](https://poly.google.com/view/4TkYCZMlbS6) \
@@ -29,17 +35,17 @@ There were several aspects about this project that I found challenging, but ulti
 [City Traffic sound byte by PacDV](https://www.pacdv.com/sounds/ambience_sounds.html)
 
 
-### Versions Used
+## Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
 
 
-### Directory Structure
+## Directory Structure
 - The Unity project is the child directory of the repository and named according to the associated lesson.
 - The Unity project is 'cleaned' and includes the `Assets` folder, the `ProjectSettings` folder, and the `UnityPackageManager` folder.
 
 
-### GVR SDK for Unity
+## GVR SDK for Unity
 - `GoogleVR` > `Demos` is not included.
 - `GoogleVR` > `GVRVideoPlayer.unitypackage` is included.
 - Scripts applicable to the course have been updated to reflect Unity's API change from `UnityEngine.VR` to `UnityEngine.XR`.
@@ -47,7 +53,7 @@ There were several aspects about this project that I found challenging, but ulti
 >**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.170.0, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
 
 
-### Related Repositories
+## Related Repositories
 - [VR Scenes and Objects - Game Objects](https://github.com/udacity/VR-Scenes-and-Objects_Game-Objects/releases)
 - [VR Scenes and Objects - Animations](https://github.com/udacity/VR-Scenes-and-Objects_Animations/releases)
 - [VR Scenes and Objects - Cameras](https://github.com/udacity/VR-Scenes-and-Objects_Cameras/releases)
