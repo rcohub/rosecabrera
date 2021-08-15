@@ -1,6 +1,6 @@
 # Build an Apartment
-By Rosaline Cabrera
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
+By Rosaline Cabrera \
+Created for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
@@ -15,17 +15,17 @@ Welcome to this interactive apartment, decorated with the "transitional minimani
 There were several aspects about this project that I found challenging, but ultimately worth it all. Perhaps the most challenging part was figuring out a nice and simple apartment design with free assets. Due to those limitations, I custom built several GameObject prefabs, such as the kitchen lamps hanging on both sides of the range (above the oven) and the fish tank. One of my favorite tasks was figuring out how to code some of the animation or make it work using the animation controller. The scene has at least 3 different animations with 3 different styles. For example, the fish is a "position" animation. The globe is a "rotation" animation that uses boolean triggers to turn on and off. And the TV images rotate every time the player teleports via the TextureSwap.cs script.
 
 ### 3rd Party Assets
-[Low Poly Fish and Tank Accessories by Acorn Bringer](https://assetstore.unity.com/publishers/2136)
-[Bar Char 2 by HarpetStudio](https://www.artstation.com/harpet)
-[Low Poly Light Bulb by Jason Toff](https://poly.google.com/view/4TkYCZMlbS6)
-[Various textures by Google Images](https://www.google.com/imghp?hl=en&tab=wi&authuser=0&ogbl)
-[Cutlery by Devotid](http://www.devotid.com/assets/)
-[Kitchen Creation Kit by Studio Krokidana](https://assetstore.unity.com/publishers/132)
-[Lamps by Funfant](www.funfant.net )
-[Pizza by Maksim Bugrimov](https://assetstore.unity.com/publishers/6845)
-[Plants by Nobiax/Yughues](https://assetstore.unity.com/publishers/4986)
-[Toon Furniture by Elcanetay](https://assetstore.unity.com/publishers/15563)
-[White Procelain Dish Set Demo](https://assetstore.unity.com/publishers/27037)
+[Low Poly Fish and Tank Accessories by Acorn Bringer](https://assetstore.unity.com/publishers/2136) \
+[Bar Char 2 by HarpetStudio](https://www.artstation.com/harpet) \
+[Low Poly Light Bulb by Jason Toff](https://poly.google.com/view/4TkYCZMlbS6) \
+[Various textures by Google Images](https://www.google.com/imghp?hl=en&tab=wi&authuser=0&ogbl) \
+[Cutlery by Devotid](http://www.devotid.com/assets/) \
+[Kitchen Creation Kit by Studio Krokidana](https://assetstore.unity.com/publishers/132) \
+[Lamps by Funfant](www.funfant.net ) \
+[Pizza by Maksim Bugrimov](https://assetstore.unity.com/publishers/6845) \
+[Plants by Nobiax/Yughues](https://assetstore.unity.com/publishers/4986) \
+[Toon Furniture by Elcanetay](https://assetstore.unity.com/publishers/15563) \
+[White Procelain Dish Set Demo](https://assetstore.unity.com/publishers/27037) \
 [City Traffic sound byte by PacDV](https://www.pacdv.com/sounds/ambience_sounds.html)
 
 
