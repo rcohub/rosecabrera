@@ -27,11 +27,8 @@ ehthumbs.db
 # ============================================================================ #
 */.vs/
 [Ee]xported[Oo]bj/
-*.userprefs
-*.csproj
 *.pidb
 *.suo
-*.sln
 *.user
 *.unityproj
 *.booproj
