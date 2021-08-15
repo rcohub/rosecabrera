@@ -7,7 +7,7 @@ Created for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program
 - Target Device: iOS
 
 ## About
-Welcome to this interactive apartment, decorated with the "transitional minimanist" in mind. Click on the globe to make it spin or stop. Click anywhere in the apartment to watch segments of some breaking news clip from the television. Or watch as the pet fish, Nemo, swims curiously in his tank. 
+Welcome to this interactive apartment, decorated with the "transitional minimalist" in mind. Click on the globe to make it spin or stop. Click anywhere in the apartment to watch segments of some breaking news clip from the television. Or watch as the pet fish, Nemo, swims curiously in his tank. 
 
 ## Screenshots
 ![Preview of the VR app](./images/Screenshot1.jpg)
