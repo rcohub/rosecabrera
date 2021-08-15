@@ -7,11 +7,10 @@ Created for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program
 - Target Device: iOS
 
 ## About
-![Preview of the VR app](./images/Screenshot1.jpg)
-
 Welcome to this interactive apartment, decorated with the "transitional minimanist" in mind. Click on the globe to make it spin or stop. Click anywhere in the apartment to watch segments of some breaking news clip from the television. Or watch as the pet fish, Nemo, swims curiously in his tank. 
 
 ## Screenshots
+![Preview of the VR app](./images/Screenshot1.jpg)
 ![The kitchen with the required globe](./images/Screenshot2.jpg) \
 ![The minimalist living room](./images/Screenshot3.jpg) \
 ![The bookshelf and its many assets](./images/Screenshot4.jpg) \
